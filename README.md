@@ -10,4 +10,9 @@
       <li>If Else</li>
     </ul>
   </li>
+  <li>Perulangan (Loops)
+   <ul>
+     <li>For</li>
+   </ul>
+  </li>
 </ul>
